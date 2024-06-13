@@ -1,7 +1,7 @@
 console.log('scripts loaded!')
 const myFullname = "Teshma";
 const myStudentNumber = "1516513";
-const result = myFullname +- myStudentNumber;
+const result = myFullname & myStudentNumber;
 
 console.log(result)
 let headerContent = document.querySelector('h1');
